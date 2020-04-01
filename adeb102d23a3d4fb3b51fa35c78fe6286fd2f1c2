@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "38efcd1a_d9dc9c6d",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1017770
+      },
+      "writtenOn": "2020-04-01T06:49:46Z",
+      "side": 1,
+      "message": "You can remove one of two new lines.",
+      "revId": "adeb102d23a3d4fb3b51fa35c78fe6286fd2f1c2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "814df703_5f9cd488",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1017770
+      },
+      "writtenOn": "2020-04-01T06:49:46Z",
+      "side": 1,
+      "message": "Can you give some more details?",
+      "revId": "adeb102d23a3d4fb3b51fa35c78fe6286fd2f1c2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
