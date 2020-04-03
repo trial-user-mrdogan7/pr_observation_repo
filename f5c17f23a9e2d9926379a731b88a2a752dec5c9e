@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "cb6d2aaa_496f81c6",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1017770
+      },
+      "writtenOn": "2020-04-03T08:54:49Z",
+      "side": 1,
+      "message": "unnecessary line. bla.",
+      "revId": "f5c17f23a9e2d9926379a731b88a2a752dec5c9e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "93b52b15_474b0125",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1017770
+      },
+      "writtenOn": "2020-04-03T08:54:49Z",
+      "side": 1,
+      "message": "bla bla.",
+      "revId": "f5c17f23a9e2d9926379a731b88a2a752dec5c9e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
