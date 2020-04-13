@@ -16,3 +16,5 @@ A new change to test GerritHub.
 Change#4 to solve the issue. 
 
 Change #5 to solve the issue, live demo.
+
+Change #6. To try self-review process.
